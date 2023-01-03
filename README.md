@@ -4,8 +4,8 @@ Demonstrate an app using fundamentals of React including simple and class compon
 
 **iOS** and **Android** mobile apps are also delivered. The apps are developed with **React Native**, anyone who is interested can test the apps through the [Expo Publish Link](https://expo.dev/@jglchen/react-app-demo) with [Expo Go](https://expo.dev/client) app.
 
-### [View the Demo](https://react-app-demo-coral.vercel.app)
-### [GitHub Pages](https://github.com/jglchen/react-app-demo)
+### [View the App](https://react-app-demo-coral.vercel.app)
+### [App GitHub](https://github.com/jglchen/react-app-demo)
 ### Docker: docker run -p 3000:3000 jglchen/react-app-demo
 ### [React Native Expo Publish](https://expo.dev/@jglchen/react-app-demo)
 ### [React Native GitHub](https://github.com/jglchen/react-app-demo-mobile)
