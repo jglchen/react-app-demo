@@ -2,16 +2,14 @@ title: React App Demo
 author: John Chen
 email: jglchen@outlook.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Demonstrate an app using fundamentals of React including simple and class components, state, props, and submitting form data to add new data or update existing records.
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
-rss: rss
+facebook_username: jglchen
+# twitter_username: jekyllrb
+github_username:  jglchen
+# rss: rss
 # dribbble_username: jekyll
-# facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
 # linkedin_username: jekyll
