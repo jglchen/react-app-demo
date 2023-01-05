@@ -27,6 +27,8 @@ linkedin_username: jekyll
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+comments: true
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
