@@ -19,4 +19,6 @@ Demonstrate an app using fundamentals of React including simple and class compon
 ### [React Native GitHub](https://github.com/jglchen/react-app-demo-mobile)
 ### back To [Series Home](https://jglchen.github.io/)
 
+![react-app-demo-screenshot](/images/react-app-demo-screenshot.png)
+
 {% include giscus.html %}
