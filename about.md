@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a project of my [Side Project Series](https://jglchen.github.io/), listed below.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### [React App Demo](https://jglchen.github.io/react-app-demo/)
+Demonstrate an app using fundamentals of React including simple and class components, state, props, and submitting form data to add new data or update existing records.
 
 
-[jekyll-organization]: https://github.com/jekyll
+
