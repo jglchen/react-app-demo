@@ -18,3 +18,4 @@ Demonstrate an app using fundamentals of React including simple and class compon
 ### [React Native Expo Publish](https://expo.dev/@jglchen/react-app-demo)
 ### [React Native GitHub](https://github.com/jglchen/react-app-demo-mobile)
 
+{% include giscus.html %}
