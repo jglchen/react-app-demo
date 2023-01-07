@@ -9,7 +9,5 @@ Demonstrate an app using fundamentals of React including simple and class compon
 ### Docker: docker run -p 3000:3000 jglchen/react-app-demo
 ### [React Native Expo Publish](https://expo.dev/@jglchen/react-app-demo)
 ### [React Native GitHub](https://github.com/jglchen/react-app-demo-mobile)
-### back To [Series Home](https://jglchen.github.io/)
-
 
 
