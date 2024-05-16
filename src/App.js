@@ -50,9 +50,11 @@ class App extends Component {
     return (
       <div className="container">
         <h1>React App Demo</h1>
+        {/* 
         <h5 className="text-right">
            React Native Expo Publish: <a href="https://expo.dev/@jglchen/react-app-demo" target="_blank"  rel="noreferrer">https://expo.dev/@jglchen/react-app-demo</a>
         </h5>
+        */}
         <p>{descriptionTitle}</p>        
         <div style={{width: '100%'}}>
            <div className="horizontal-scroll">
